@@ -1,0 +1,20 @@
+preference:
+    hour: <int>
+    minute: <int>
+accounts:
+-   uid: '<string>'
+    password: <string>
+    cookies: <string>
+    user_agent: <string>
+    CheckIn: <bool>
+    BrowseUserPage: <bool>
+    BrowsePost: <bool>
+    ThumbUp: <bool>
+    BrowseSpecialPage: <bool>
+    BoardFollow: <bool>
+    CarrotPull: <bool>
+ONEPUSH:
+    notifier: <string>
+    params:
+        title: <string>
+        sctkey: <string>
