@@ -6,7 +6,7 @@ ANDROID_COOKIE = ""
 
 [notify]
 PUSH_PLUS_TOKEN = "63bab62efab74e68a8ce20ac74f5948d"
-SC_KEY = ""
+SC_KEY = "SCT26503TQ3DnCaGapl87O3e0Es9CUdjE"
 TG_BOT_TOKEN = ""
 TG_USER_ID = ""
 TG_BOT_API = ""
